@@ -12,7 +12,10 @@ This project implements image morphing using Delaunay triangulation, allowing yo
 
 - **Warping and Cross-Dissolving:** The project applies geometric warping to morph the triangles in the source image to match the positions of the triangles in the target image. It also performs cross-dissolve blending to create a smooth transition between the two images.
 
-- **User Interface:** The project includes a simple user interface where you can load the source and target images, define corresponding points manually or automatically, and adjust morphing parameters.
+## Future tagrets
+
+- **User Interface:** A simple user interface where you can load the source and target images, define corresponding points manually or automatically, and adjust morphing parameters.
+
 
 ## Installation
 
@@ -21,6 +24,7 @@ Clone the repository to your local machine:
    ```bash
    git clone https://github.com/keshav-04/Image-Morphing.git
   ```
+
 
 ## Contributing
 
